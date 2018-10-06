@@ -321,6 +321,17 @@ a:hover {
     border-right:2px solid #42a5f5;
 }
 
+/*Custom Employbility Tests*/
+.banner-employ{
+    background: url(../images/employbility_test.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    min-height: 360px;
+}
 /*Custom IRP Page*/
 .banner-irp{
      background: url(../images/irp.jpg) no-repeat center;
