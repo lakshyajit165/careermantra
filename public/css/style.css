@@ -273,6 +273,17 @@ a:hover {
     background-attachment: fixed;
     min-height: 360px;
 }
+/*Custom IT PArtner*/
+.banner-IT {
+    background: url(../images/IT.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    min-height: 360px;
+}
 /*Custom partners page*/
 .banner-partner {
     background: url(../images/partnership.png) no-repeat center;
@@ -632,6 +643,7 @@ a:hover {
     top: 89px;
     right: -30px;
 }
+
 .main-timeline .timeline-content{
     width: 50%;
     padding: 0 50px 0;
@@ -639,6 +651,7 @@ a:hover {
     float: right;
     position: relative;
 }
+
 .main-timeline .timeline-content:before{
     content: "";
     width: 70%;
@@ -650,6 +663,7 @@ a:hover {
     bottom: -13px;
     left: 35px;
 }
+
 .main-timeline .timeline-content:after{
     content: "";
     width: 37px;
@@ -1322,7 +1336,7 @@ a.service-button {
 }
 
 a.service-button:hover {
-    color: #fff;
+    color: ##45a6f5;
 }
 
 .wthree_agile_us:hover .wthree_features_grid {
