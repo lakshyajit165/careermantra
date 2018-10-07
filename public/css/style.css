@@ -332,6 +332,18 @@ a:hover {
     background-attachment: fixed;
     min-height: 360px;
 }
+
+/*Custom PLacement Page*/
+.banner-placement{
+    background: url(../images/placement.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    min-height: 360px;
+}
 /*Custom IRP Page*/
 .banner-irp{
      background: url(../images/irp.jpg) no-repeat center;
