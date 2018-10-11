@@ -367,6 +367,18 @@ a:hover {
     min-height: 360px;
 }
 
+/*Custom Tests Page*/
+.banner-test{
+     background: url(../images/test1.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    min-height: 360px;
+}
+
 /*Custom CMPT Page*/
 .banner-cmpt{
      background: url(../images/cmpt.jpg) no-repeat center;
@@ -381,7 +393,7 @@ a:hover {
 
 /*Custom Gallery Page*/
 .banner-gallery{
-     background: url(../images/banner1.jpg) no-repeat center;
+     background: url(../images/camera.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -405,6 +417,29 @@ a:hover {
 /*Custom Speed*/
 .banner-speed{
      background: url(../images/speed.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    min-height: 360px;
+}
+
+/*Privacy Policy*/
+.banner-privacy_policy{
+     background: url(../images/privacy_policy_1.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    min-height: 360px;
+}
+/*Disclaimer*/
+.banner-disclaimer{
+     background: url(../images/privacy_policy_1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
